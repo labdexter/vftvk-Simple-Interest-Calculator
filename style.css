@@ -18,4 +18,37 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     }
+.contents
+{
+    margin-left: 80px;
+}
 
+table td
+{
+    padding-bottom: 10px;
+}
+
+#principal{
+    height: 25px;
+    width: 190px;
+}
+
+#years{
+    height: 35px;
+    width: 200px;
+}
+
+footer
+{
+    margin-top: 10px;
+}
+
+.labels
+{
+    width: 130px;
+}
+
+.highlight
+{
+    background-color: #ffff00;
+}
